@@ -1,0 +1,1 @@
+{"Signal_SERVER": "192.168.42.80","Signal_PORT":"80"}
